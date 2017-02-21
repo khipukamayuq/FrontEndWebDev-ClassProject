@@ -376,3 +376,8 @@ input.button:hover {
 .red {
   color: #871719;
 }
+
+footer {
+  height: 100px;
+  background-color: lightgrey;
+}
